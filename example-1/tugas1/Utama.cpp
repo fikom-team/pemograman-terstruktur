@@ -30,6 +30,6 @@ int main()
   // Set Nilai nya Yang Akan di kirim kan ke class Luas
   l.set(alas, tinggi);
 
-  cout << "Luas Segitiga" ; cout << l.hitungLuas() << endl;
+  cout << "Luas Segitiga : " ; cout << l.hitungLuas() << endl ;
 
 }
